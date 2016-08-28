@@ -1,3 +1,4 @@
+[![Stories in Ready](https://badge.waffle.io/project-bitmark/klaranet.png?label=ready&title=Ready)](https://waffle.io/project-bitmark/klaranet)
 # Hubot
 
 This is a version of GitHub's Campfire bot, hubot. He's pretty cool.
