@@ -1,15 +1,14 @@
 {
-  "name": "hosted-hubot",
-  "version": "2.7.1",
-  "private": true,
-  "author": "GitHub Inc.",
+  "name": "klaranet",
+  "version": "0.0.1",
+  "author": "Melvin Carvalho <melvincarvalho@gmail.com> (https://melvincarvalho.com/#me)",
   "keywords": [
     "github",
     "hubot",
-    "campfire",
+    "klaranet",
     "bot"
   ],
-  "description": "A simple helpful robot for your Company",
+  "description": "A simple helpful robot for IM tipping and marking and payments",
   "licenses": [
     {
       "type": "MIT",
