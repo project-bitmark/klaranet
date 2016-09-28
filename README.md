@@ -1,5 +1,5 @@
 [![Stories in Ready](https://badge.waffle.io/project-bitmark/klaranet.png?label=ready&title=Ready)](https://waffle.io/project-bitmark/klaranet)
-# Hubot
+# Klaranet
 
 This is a version of GitHub's Campfire bot, hubot. He's pretty cool.
 
@@ -140,7 +140,7 @@ UI.
     % heroku config:set HUBOT_CAMPFIRE_TOKEN="..."
 
 Get the numeric IDs of the rooms you want the bot to join, comma delimited. If
-you want the bot to connect to `https://mysubdomain.campfirenow.com/room/42` 
+you want the bot to connect to `https://mysubdomain.campfirenow.com/room/42`
 and `https://mysubdomain.campfirenow.com/room/1024` then you'd add it like this:
 
     % heroku config:set HUBOT_CAMPFIRE_ROOMS="42,1024"
